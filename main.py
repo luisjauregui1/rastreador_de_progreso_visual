@@ -9,3 +9,6 @@ BACKGROUD_COLOR = '#f4f4f4'
 window = Tk()
 window.title("rastreador de progreso visual")
 window.config(padx=50, pady=50, bg=BACKGROUD_COLOR)
+
+
+window.mainloop()
